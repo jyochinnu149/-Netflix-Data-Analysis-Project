@@ -1,0 +1,7 @@
+Total titles: 2510
+Movies: 1250
+TV Shows: 1260
+Unique countries: 15
+Top rating: TV-MA
+Top genre: Biography
+Peak release year: 2013
